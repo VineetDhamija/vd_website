@@ -1,7 +1,7 @@
 ---
-title: "vd_website"
+title: "This is Vineet's First Website with R"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Welcome to the website. I hope you enjoy it! I am a student, playing in R
 site: distill::distill_website
 ---
 
@@ -13,3 +13,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+On a Learning curve to be a Data Analyst
+
+![](https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif)

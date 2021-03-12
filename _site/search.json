@@ -6,15 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-03-05T23:20:31+05:30"
+      "last_modified": "2021-03-05T23:46:09+05:30"
     },
     {
       "path": "index.html",
-      "title": "vd_website",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "This is Vineet's First Website with R",
+      "description": "Welcome to the website. I hope you enjoy it! I am a student, playing in R\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-03-05T23:20:33+05:30"
+      "contents": "\r\nOn a Learning curve to be a Data Analyst\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-12T23:27:56+05:30"
     }
   ],
   "collections": []
