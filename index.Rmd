@@ -1,18 +1,21 @@
 ---
-title: "This is Vineet's First Website with R"
-description: |
-  Welcome to the website. I hope you enjoy it! I am a student, playing in R
+title: "Hi! I am Vineet Dhamija"
+image: "Vineet_Photo.jpg"
+description: "Budding Data Analyst and Adept Mainframe Programmer"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/vineet-dhamija-13b29616/"
+  - label: GitHub
+    url: "https://github.com/VineetDhamija"
+  - label: Email
+    url: "mailto:vd17@myscc.ca"
+
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+A Budding Data Analyst and adept Mainframe Programmer. 
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
 
-```
-
-On a Learning curve to be a Data Analyst
-
-![](https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif)
+In my 9 years of Mainframe Development working with Millions of rows every day brought a passion in me to dig deep to fish out Descriptive and Prescriptive insights from Data.             

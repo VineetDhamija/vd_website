@@ -1,7 +1,7 @@
-name: "Vineet Dhamija: Budding Data Engineer, Adept Mainframe Programmer"
-title: "Vineet Dhamija's Website"
+name: "Vineet Dhamija"
+title: "Vineet Dhamija: Without Data, you are just another person with an opinion."
 description: |
-  vd_website
+  Home
 output_dir: "_site"
 navbar:
   right:
@@ -9,4 +9,13 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Resume"
+      href: Vineet_Dhamija_Resume.pdf
+    - icon: fab fa-github
+      href: https://github.com/VineetDhamija
+    - icon: fab fa-linkedin
+      href: https://www.linkedin.com/in/vineet-dhamija-13b29616/
+    - icon: fa fa-envelope
+      href: mailto:vd17@myscc.ca
 output: distill::distill_article
+theme: theme.css
