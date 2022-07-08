@@ -1,0 +1,44 @@
+---
+title: 'Certifications'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+               out.width = "75%", fig.align = "center")
+library(cowplot)
+library(ggplot2)
+```
+
+
+
+
+```{r , echo=FALSE, , out.width = '100%'}
+
+
+
+knitr::include_graphics("certifications/tableau-desktop-specialist.png")
+knitr::include_graphics("certifications/professional-scrum-master-i-psm-i.png")
+knitr::include_graphics("certifications/1.png")
+knitr::include_graphics("certifications/2.png")
+knitr::include_graphics("certifications/3.png")
+knitr::include_graphics("certifications/4.png")
+knitr::include_graphics("certifications/5.png")
+knitr::include_graphics("certifications/6.png")
+knitr::include_graphics("certifications/7.png")
+knitr::include_graphics("certifications/8.png")
+knitr::include_graphics("certifications/9.png")
+knitr::include_graphics("certifications/10.png")
+knitr::include_graphics("certifications/11.png")
+knitr::include_graphics("certifications/12.png")
+knitr::include_graphics("certifications/13.png")
+knitr::include_graphics("certifications/14.png")
+knitr::include_graphics("certifications/15.png")
+knitr::include_graphics("certifications/16.png")
+knitr::include_graphics("certifications/17.png")
+knitr::include_graphics("certifications/18.png")
+knitr::include_graphics("certifications/19.png")
+knitr::include_graphics("certifications/20.png")
+knitr::include_graphics("certifications/21.png")
+knitr::include_graphics("certifications/22.png")
+
+```

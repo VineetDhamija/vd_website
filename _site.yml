@@ -1,5 +1,5 @@
 name: "Vineet Dhamija"
-title: "Vineet Dhamija: Without Data, you are just another person with an opinion."
+title: "Vineet Dhamija"
 description: |
   Home
 output_dir: "_site"
@@ -9,6 +9,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Certifications"
+      href: certifications.html
     - text: "Resume"
       href: Vineet_Dhamija_Resume.pdf
     - icon: fab fa-github

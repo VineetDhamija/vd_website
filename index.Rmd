@@ -15,7 +15,4 @@ output:
 site: distill::distill_website
 ---
 
-A Budding Data Analyst and adept Mainframe Programmer. 
-
-
-In my 9 years of Mainframe Development working with Millions of rows every day brought a passion in me to dig deep to fish out Descriptive and Prescriptive insights from Data.             
+Without Data, you are just another person with an opinion.
