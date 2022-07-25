@@ -5,7 +5,7 @@ description: |
   
 output:
   postcards::trestles
-site: distill::distill_article
+site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}

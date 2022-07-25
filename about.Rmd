@@ -12,7 +12,7 @@ links:
 
 output:
   postcards::trestles
-site: distill::distill_article
+site: distill::distill_website
 
 
 ---
