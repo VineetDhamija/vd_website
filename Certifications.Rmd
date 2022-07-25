@@ -1,5 +1,10 @@
 ---
 title: 'Certifications'
+
+output:
+  postcards::trestles
+site: distill::distill_website
+
 ---
 
 ```{r setup, include=FALSE}
