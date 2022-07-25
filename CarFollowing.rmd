@@ -2,6 +2,10 @@
 title: "Data Driven Car Following Model"
 description: |
   Car Following Model trained and based on Data
+  
+output:
+  postcards::trestles
+site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
