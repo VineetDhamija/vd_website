@@ -12,7 +12,7 @@ links:
 
 output:
   postcards::jolla
-site: distill::distill_website
+site: distill::distill_article
 ---
 
 Without Data, you are just another person with an opinion.

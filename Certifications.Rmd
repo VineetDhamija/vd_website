@@ -3,7 +3,7 @@ title: 'Certifications'
 
 output:
   postcards::trestles
-site: distill::distill_website
+site: distill::distill_article
 
 ---
 
