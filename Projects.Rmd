@@ -1,5 +1,5 @@
 ---
-title: "Canada's Air Pollutant Emissions Inventory Analysis"
+title: "Projects"
 description: |
   Project Details
 ---
