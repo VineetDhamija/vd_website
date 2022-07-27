@@ -1,24 +1,13 @@
 ---
 title: "Data Driven Car Following Model"
 description: |
-  Car Following Model trained and based on Data
+  A Comparison and Application for Random Forest, CNN and KNN Car Following models to predict Acceleration and calculate Subject Vehicle Trajectory
   
-output:
-  postcards::trestles
-site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
-<p align="center"> 
-  <img src="images/Logo.png" alt="HAR Logo" >
-</p>
-<h1 align="center"> Data Driven Car Following Model </h1>
-<h3 align="center"> A Comparison and Application for Random Forest, CNN and KNN Car Following models to predict Acceleration and calculate Subject Vehicle Trajectory</h3>  
-
-</br>
 
 
 <p align="center"> 

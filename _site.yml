@@ -15,7 +15,7 @@ navbar:
       href: Vineet_Dhamija_Resume.pdf
     - text: "Projects"
       menu:
-        - text: "Data Driven Car Following Model"
+        - text: "Car Following Models"
           href: CarFollowing.html
     - icon: fab fa-github
       href: https://github.com/VineetDhamija
