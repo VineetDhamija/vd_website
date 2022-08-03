@@ -2,7 +2,6 @@
 title: "Data Driven Car Following Model"
 description: |
   A Comparison and Application for Random Forest, CNN and KNN Car Following models to predict Acceleration and calculate Subject Vehicle Trajectory
-  
 ---
 
 ```{r setup, include=FALSE}
@@ -11,7 +10,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 <p align="center"> 
-  <img src="images/Car Following Terms.png" alt="Car Following Terms"> width="70%" height="70%">
+  <img src="images/Car Following Terms.png" alt="Car Following Terms"> 
+</p>
+
+<p align="center"> 
+
+<iframe width="580" height="400" src="https://www.youtube.com/embed/KBP_Uz4L9xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </p>
 
 
@@ -39,7 +44,7 @@ knitr::opts_chunk$set(echo = FALSE)
       </ul>
     </li>
     <li><a href="#results-and-discussion"> ➤ Results and Discussion</a></li>
-    <li><a href="#TroubleShoot"> ➤ TroubleShoot</a></li>
+    <li><a href="#gitcode"> ➤ Git Code Location</a></li>
     <li><a href="#contributors"> ➤ Contributors</a></li>
     
   </ol>
@@ -227,6 +232,11 @@ The following open source packages are used in this project:
 </p>
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2 id="gitcode"> 🚗 Code </h2>
+<p>
+  https://github.com/VineetDhamija/DataDrivenCarFollowing
+</p>
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
