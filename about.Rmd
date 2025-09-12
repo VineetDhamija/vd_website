@@ -23,7 +23,7 @@ site: distill::distill_website
 A Budding Data Analyst and adept Mainframe Programmer. 
 
 
-In my 9 years of Mainframe Development working with Millions of rows every day brought a passion in me to dig deep into Data to fish out Descriptive and Prescriptive insights.             
+In my 12+ years of Mainframe Development and Devops experience with Millions of rows every day brought a passion in me to dig deep into Data to fish out Descriptive and Prescriptive insights.             
 <br>
 
 ## **Education**  
